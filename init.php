@@ -93,7 +93,7 @@ class utils {
         else
             $function = strtolower($function);
                 
-        return $this->cut($function,"window.location = \"","\"");
+        return str_replace("http://","https://",$this->cut($function,"window.location = \"","\""));
     }
 }
 
