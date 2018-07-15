@@ -131,8 +131,6 @@ class timer {
     }
 }
 
-$solved = false;
-
 $browser = new navigator();
 $utils = new utils();
 $timer = new timer();
@@ -141,7 +139,7 @@ $browser->get("https://riddlediario.com/br_inicial.html");
 
 $browser->get($utils->cut($browser->getCurrentHTML(),"<area shape=\"rect\" coords=\"810,460,570,400\" href=\"","\""));
 
-while(!$solved) {
+while(true) {
     $function = $utils->hijackFunction($browser->getCurrentHTML());
     
     if($function == "FAILED")
