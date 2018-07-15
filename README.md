@@ -1,7 +1,7 @@
 # EasyRiddle - Resolva o Enigma em segundos!
 <img width="460" height="300" src="https://riddlediario.com/br/Images/fundo_br.gif">
 
-__Dica:__ Caso você não consiga executar, você ainda consegue olhar o __sample.html__ no repositório.
+__Dica:__ Caso você não consiga executar, você ainda consegue olhar o [sample.html](https://4rthuurr.github.io/EasyRiddle/sample.html) no repositório.
 
 ## Como usar?! (para novatos) 🤔
 
@@ -20,4 +20,4 @@ PHP 5.0+ w/ libcurl
 ## Arquivos 📂
 
 * __init.php__: Arquivo do EasyRiddle.
-* __sample.html__: Exemplo do resultado da execução do EasyRiddle, atualizado em 14/07/2018R
+* [sample.html](https://4rthuurr.github.io/EasyRiddle/sample.html): Exemplo do resultado da execução do EasyRiddle, atualizado em 14/07/2018R
