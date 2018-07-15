@@ -1,4 +1,4 @@
-# EasyRiddle - Resolva o Black Riddle em segundos!
+# EasyRiddle - Resolva o Enigma em segundos!
 <p align="center">
   <img width="460" height="300" src="https://riddlediario.com/br/Images/fundo_br.gif">
 </p>
