@@ -31,15 +31,15 @@ class navigator {
         curl_setopt($i, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($i, CURLOPT_SSL_VERIFYPEER, false);
         $_SERVER['NAVIGATOR_HTML'] = curl_exec($i);
-        $_SERVER['url'] = $url;
+        $_SERVER['NAVIGATOR_URL'] = $url;
         curl_close($i);
-        print("<p>" . "[+] Discovered URL: <a target=\"_\" href=\"" . $_SERVER['url'] . "\">" . $_SERVER['url'] . "</a></p>");
+        print("<p>" . "[+] Discovered URL: <a target=\"_\" href=\"" . $this->getCurrentURL() . "\">" . $this->getCurrentURL() . "</a></p>");
     }
     
     public function getCurrentURL() {
-        return $_SERVER['url'];
+        return $_SERVER['NAVIGATOR_URL'];
     }
-    
+
     public function getCurrentHTML() {
         return str_replace("http://","https://",$_SERVER['NAVIGATOR_HTML']);
     }
