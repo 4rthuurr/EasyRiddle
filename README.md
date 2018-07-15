@@ -20,4 +20,4 @@ PHP 5.0+ w/ libcurl
 ## Arquivos 📂
 
 * __init.php__: Arquivo do EasyRiddle.
-* [sample.html](https://4rthuurr.github.io/EasyRiddle/sample.html): Exemplo do resultado da execução do EasyRiddle, atualizado em 14/07/2018R
+* [sample.html](https://4rthuurr.github.io/EasyRiddle/sample.html): Exemplo do resultado da execução do EasyRiddle, atualizado em 14/07/2018
