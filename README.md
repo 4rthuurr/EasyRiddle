@@ -1,8 +1,7 @@
 # EasyRiddle - Resolva o Enigma em segundos!
-<p align="center">
-  <img width="460" height="300" src="https://riddlediario.com/br/Images/fundo_br.gif">
-</p>
-<p align="center"><b>Dica:</b> Caso você não consiga executar, você ainda consegue olhar o <b>sample.html</b> no repositório.</p>
+<img width="460" height="300" src="https://riddlediario.com/br/Images/fundo_br.gif">
+
+__Dica:__ Caso você não consiga executar, você ainda consegue olhar o __sample.html__ no repositório.
 
 ## Como usar?! (para novatos) 🤔
 
