@@ -1,5 +1,4 @@
 # EasyRiddle - Resolva o Enigma em segundos!
-<img width="460" height="300" src="https://riddlediario.com/br/Images/fundo_br.gif">
 
 __Dica:__ Caso você não consiga executar, você ainda consegue olhar o [sample.html](https://4rthuurr.github.io/EasyRiddle/sample.html) no repositório.
 
