@@ -2,7 +2,7 @@
 
 __Dica:__ Caso você não consiga executar, você ainda consegue olhar o [sample.html](https://4rthuurr.github.io/EasyRiddle/sample.html) no repositório.
 
-## Como usar?! (para novatos) 🤔
+## Como usar?! 🤔
 
 Verifique se você possui os pré-requisito(s) em seu computador, e caso não os possua, Instale-os para seguir.
 
